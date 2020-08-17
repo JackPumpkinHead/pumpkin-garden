@@ -5,7 +5,7 @@ body {
   font-family: "Arial", sans-serif;
   color: #222222;
 
-  background: #ffffff url("img/bg-page.png") no-repeat top center;
+  background: #ffffff url("img-2/bg-page.png") no-repeat top center;
 }
 
 h1 {
@@ -204,13 +204,13 @@ figcaption {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("img-2/icon-email-header.svg");
   color: rgba(68, 112, 196, 0.7);
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("img-2/icon-phone-header.svg");
 }
 
 .page-title {
@@ -227,7 +227,7 @@ figcaption {
   text-align: center;
   color: #ffffff;
   background-color: #4a87fa;
-  background-image: url("img/bg-partnership.svg");
+  background-image: url("img-2/bg-partnership.svg");
 }
 
 .underline {
